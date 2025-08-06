@@ -1,14 +1,9 @@
-h2{
+body {
+    background-color: bisque;
     color: blue;
 }
 
-body{
-    background-color: rgb(0, 0, 0);
-    color: white;
-    font-family:Arial, Helvetica, sans-serif;
-    text-align:center;
-}
-
-#nome-usuário{
-    font-weight: bold;
+footer {
+    bottom: 0;
+    position: fixed;
 }
